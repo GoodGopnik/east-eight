@@ -1,0 +1,94 @@
+html {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.site-header_ {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 777;
+}
+
+.site-header .ast-builder-grid-row {
+  line-height: 5;
+}
+.ast-builder-grid-row > .site-header-section {
+    margin: 0 35px;
+}
+
+.site-header .main-navigation ul li a {
+  color: #fff;
+  font-size: 14px;
+  text-transform: uppercase;
+  position: relative;
+  overflow: hidden;
+  -webkit-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
+  z-index: 1;
+}
+
+.site-header .main-navigation ul li.current_page_item > a,
+.site-header .main-navigation ul li > a:hover {
+  color: #fff;
+  text-decoration: none;
+  text-decoration: underline;
+}
+
+.site-header .main-navigation .main-header-menu > li {
+  margin-left: 65px;
+}
+
+.site-header .main-navigation .main-header-menu > li:hover .sub-menu {
+  opacity: 1;
+  pointer-events: auto;
+  top: 100%;
+  -webkit-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
+}
+
+.site-header .main-navigation .main-header-menu > li:first-child {
+  margin: 0;
+}
+
+.site-header .main-navigation .main-header-menu > li > a::after {
+  height: 9px;
+  top: 0;
+}
+
+.site-header .main-navigation .main-header-menu .sub-menu {
+  padding: 20px;
+  top: 90%;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  -webkit-transition: all .25s ease-in-out;
+  transition: all .25s ease-in-out;
+  background-color: rgba(255, 255, 255, 0.48);
+  border: 1px solid #707070;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.site-header .main-navigation .main-header-menu .sub-menu > li {
+  margin-bottom: 10px;
+}
+
+.site-header .main-navigation .main-header-menu .sub-menu > li:last-child {
+  margin: 0;
+}
+
+.site-header .main-navigation .main-header-menu .sub-menu > li > a {
+  font-weight: 400;
+  padding: 0;
+  white-space: nowrap;
+}
+
+.site-header .main-navigation .main-header-menu .sub-menu > li > a::after {
+  height: 1px;
+  bottom: 0;
+}
+

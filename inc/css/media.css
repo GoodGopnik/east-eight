@@ -1,0 +1,117 @@
+/*==========  Desktop First  ==========*/
+
+@media (max-width: 1440px) {
+	.text-block span {font-size: 18px;}
+	.s-si-cont .si-text span {font-size: 18px;}
+	.s-si-cont .si-text h2 {font-size: 36px;}
+	.s-si-cont2 .row > div:last-child .si-text span {font-size: 18px;}
+	.s-si-cont2 .row > div:last-child .si-text h2 {font-size: 36px;}
+	header .custom-logo-link img {max-width: 80px;}
+	.main-home-text h1 {font-size: 40px;}
+	.main-home-text span {font-size: 22px;}
+	.main-home-text p {font-size: 20px;max-width: 740px;margin: 0 auto 60px;}
+	.s-main-home .container {max-width: 680px;}
+	.nav-section div {width: 80px;height: 80px;}
+	.nav-section div.tab:first-child img {margin-right: 20px;max-width: 50px;}
+	.nav-section div.tab:last-child img {margin-left: 20px;max-width: 50px;}
+	.nav-section div {font-size: 14px;}
+	.text-block span {font-size: 26px;}
+	.text-block h2 {font-size: 60px;}
+	.si-right {padding: 80px 80px 80px 0; display: flex; align-items: center; height: 100%;}
+	.si-headline {top: 28px;}
+	.si-headline span:first-child,
+	.si-headline .tab {font-size: 14px;}
+	.si-headline .tab:nth-child(2)::after {width: 20px;margin: -6px 8px 0 10px;}
+	.si-headline span:first-child::after {width: 30px;margin: 0 10px 0 15px;}
+	.gallety-slider {padding: 50px 65px 50px 0;}
+	.text-block {max-width: 350px;}
+	.solution-box > p {font-size: 22px;padding: 30px 120px;}
+	.sol-one {padding: 50px 120px 70px;}
+	.sol-one h3 {font-size: 36px;margin: 0 0 30px;}
+	.sol-one p {max-width: 1000px;font-size: 28px;margin: 0 0 30px;}
+	.s-global .global-text span {font-size: 20px;}
+	.s-global .global-text h2 {color: #52274F;font-size: 36px;}
+	.text-block .line {height: 60px;}
+	.s-global .global-text {max-width: 500px;}
+	.numbers {margin-left: -20%;}
+	.numbers-one {margin: 0 0 50px;}
+	.numbers-one span {font-size: 40px;}
+	.numbers-one::after {width: 45px;height: 45px;left: -28px;}
+	.s-global .row > div {height: 560px;}
+	.blocks-half-img img {height: 480px;}
+	.blocks-half-text span {font-size: 18px;}
+	.blocks-half-text h2 {font-size: 26px;}
+	.blocks-half-text.text-block {max-width: 400px;}
+	.blocks-half .row > div:first-child .blocks-half-img {padding: 70px 0 70px 70px;}
+	.text-block p {font-size: 18px;}
+	.blocks-half:nth-child(2n) .row > div:first-child .blocks-half-img img {width: 100%;max-width: 100%;}
+	.blocks-half:nth-child(2n) .row > div:first-child .blocks-half-img {padding: 70px 70px 70px 70px;}
+	.news-text span {font-size: 20px;}
+	.text-block h2 {font-size: 36px;}
+	.news-text.text-block {margin: 70px auto 70px;max-width: 460px;}
+	.s-news-home > .row > div:first-child {padding: 70px 40px 20px;}
+	.post-one img {height: 260px;}
+	.faq-text span {font-size: 20px;}
+	.faq-text.text-block {max-width: 460px;}
+	.s-faq .row > div {min-height: 620px;}
+	.faqs {padding: 70px 40px;}
+	.accord-one h3 i {font-size: 36px;}
+	.accord-one h3 {font-size: 18px;}
+	.open-accord {font-size: 18px;}
+	.s-footer {padding: 70px 0 85px;}
+	.footer-text > span {font-size: 20px;}
+	.s-footer .container {max-width: 1120px;}
+	.footer-text.text-block {max-width: 460px;}
+	.site-above-footer-wrap[data-section="section-above-footer-builder"] .ast-builder-grid-row {max-width: 1120px;padding-top: 40px;}
+	#astra-footer-menu .menu-item {margin-right: 0px;}
+	.site-above-footer-wrap[data-section="section-above-footer-builder"] {padding: 0 0 25px;}
+	#forminator-module-179 #forminator-field-email-1 {height: 50px;font-size: 14px;}
+	#forminator-module-179 .forminator-button-submit {height: 50px;font-size: 14px !important;min-width: 140px;}
+	.footer-text > p {margin: 35px 0 50px;}
+}
+
+@media (max-width: 1330px) {
+
+}
+
+@media (max-width: 920px) {
+
+}
+
+@media (max-width: 991.98px) {
+
+}
+
+@media (max-width: 991.98px) {
+
+}
+
+@media (max-width: 767.98px) {
+
+}
+
+@media (max-width: 575.98px) {
+
+}
+
+/*==========  Mobile First  ==========*/
+
+@media (min-width: 576px) {
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 1441px) {
+
+}
